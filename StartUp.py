@@ -48,7 +48,7 @@ lin_reg.fit(xtrain, ytrain)
 
 
 st.markdown("<h1 style = 'color: #0C2D57; text-align: center; font-family: helvetica'>STARTUP PROFIT PREDICTOR</h1>", unsafe_allow_html = True)
-st.markdown("<h4 style = 'margin: -30px; color: #F11A7B; text-align: center; font-family: cursive '>Built By Pluracode Data Science Cohort</h4>", unsafe_allow_html = True)
+st.markdown("<h4 style = 'margin: -30px; color: #F11A7B; text-align: center; font-family: cursive '>Built By UGOCHUKWU OBINNA AUGUSTINE</h4>", unsafe_allow_html = True)
 st.markdown("<br>", unsafe_allow_html= True)
 
 st.image('pngwing.com (1).png')
